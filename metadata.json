@@ -1,0 +1,7 @@
+{
+  "name": "IndustrIA - Análisis de Residuos Orgánicos",
+  "description": "Una aplicación web que proporciona información detallada sobre residuos orgánicos a partir de texto o imágenes, utilizando la API de Gemini para generar un análisis estructurado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
